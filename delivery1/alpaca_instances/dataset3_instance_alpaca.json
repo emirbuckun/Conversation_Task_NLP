@@ -1,0 +1,24 @@
+{
+  "instruction": "Generate a continuation for the following conversation.",
+  "input": {
+    "conversation_id": "12345",
+    "context": [
+      {
+        "speaker": "User",
+        "utterance": "Mustafa Behçet Efendi'nin mesleği nedir?"
+      },
+      {
+        "speaker": "Bot",
+        "utterance": " Mustafa Behçet Efendi Osmanlı saray hekimi idi."
+      },
+      {
+        "speaker": "User",
+        "utterance": "Onun önemli bir katkısı oldu mu?"
+      }
+    ]
+  },
+  "output": {
+    "speaker": "Bot",
+    "continuation": "Evet, Mustafa Behçet Efendi'nin Tıbbiye'nin kurulmasında önemli bir katkısı oldu."
+  }
+}

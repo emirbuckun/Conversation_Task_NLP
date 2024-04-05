@@ -1,0 +1,24 @@
+{
+  "instruction": "Generate a continuation for the following conversation context.",
+  "input": {
+    "conversation_id": "54321",
+    "context": [
+      {
+        "speaker": "User",
+        "utterance": "I've been struggling with feelings of worthlessness and not knowing how to change them."
+      },
+      {
+        "speaker": "Bot",
+        "utterance": "It's tough dealing with those emotions. Have you considered seeking support or talking to someone about how you feel?"
+      },
+      {
+        "speaker": "User",
+        "utterance": "I haven't thought about that. Do you think changing my social circle could help?"
+      }
+    ]
+  },
+  "output": {
+    "speaker": "Bot",
+    "continuation": "Changing your social circle could indeed have a positive impact on your self-esteem. Surrounding yourself with supportive and uplifting people can make a difference in how you perceive yourself. Additionally, exploring inspirational messages or seeking professional guidance can also contribute to changing your feelings of worthlessness."
+  }
+}
