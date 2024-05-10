@@ -1,0 +1,9 @@
+Number of instructions: 15601
+
+Average instruction length: 813.9775014422153
+Average input length: 0
+Average output length: 54.99352605602205
+
+Standard deviation of instruction length: 566.588401746614
+Standard deviation of input length: 0.0
+Standard deviation of output length: 43.02568876825563
